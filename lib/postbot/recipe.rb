@@ -1,0 +1,2 @@
+module Postbot::Recipe
+end
